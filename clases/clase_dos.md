@@ -18,3 +18,15 @@
 ## Transistores
 * N - P - N
 * P - N - P
+
+# Representacion de Numeros Reales
+* Punto Fijo
+* Punto Flotante
+
+## Punto Fijo
+* Redondeo
+* Truncamiento
+
+## Punto Flotante
+* Normalizacion
+* IEEE
